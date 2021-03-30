@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# MNIST dataset
+# MNIST dataset and Noisy Files
 data/
+*.pth
+*.onnx
+*.pb
